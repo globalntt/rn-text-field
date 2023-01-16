@@ -1,0 +1,50 @@
+{
+  "name": "@globalntt/rn-text-field",
+  "version": "0.1.0",
+  "license": "BSD-3-Clause",
+  "author": "Alexander Nazarov <n4kz@n4kz.com>",
+  "description": "Material textfield",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "material",
+    "input",
+    "textinput",
+    "field",
+    "textfield",
+    "floating",
+    "label"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globalntt/rn-text-field"
+  },
+  "bugs": {
+    "url": "https://github.com/globalntt/rn-text-field/issues"
+  },
+  "homepage": "https://github.com/globalntt/rn-text-field#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "prop-types": "*",
+    "react-native-vector-icons": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0",
+    "metro-react-native-babel-preset": "^0.54.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
